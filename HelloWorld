@@ -1,0 +1,5 @@
+protected void onCreate(Bundle savedInstanceState) {
+        setContentView(new FramView(this));
+        super.onCreate(savedInstanceState);
+
+    }
